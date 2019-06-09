@@ -3,13 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="Sample1.CheckBox_RadioButton">
+      <class name="Sample1.TestCase1">
         <methods>
-          <include name="test123"/>
-          <include name="setup"/>
-          <include name="tearDown"/>
+          <include name="test1"/>
+          <include name="test2checkbox"/>
+          <include name="connect"/>
         </methods>
-      </class> <!-- Sample1.CheckBox_RadioButton -->
+      </class> <!-- Sample1.TestCase1 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

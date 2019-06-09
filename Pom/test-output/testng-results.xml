@@ -2,24 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="14512" started-at="2019-06-08T12:22:56Z" finished-at="2019-06-08T12:23:11Z">
+  <suite name="Default suite" duration-ms="6749" started-at="2019-06-09T12:32:53Z" finished-at="2019-06-09T12:33:00Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="14512" started-at="2019-06-08T12:22:56Z" finished-at="2019-06-08T12:23:11Z">
-      <class name="Sample1.Chekonese">
-        <test-method status="PASS" signature="connect()[pri:0, instance:Sample1.Chekonese@675d3402]" name="connect" is-config="true" duration-ms="13749" started-at="2019-06-08T17:52:56Z" finished-at="2019-06-08T17:53:10Z">
+    <test name="Default test" duration-ms="6749" started-at="2019-06-09T12:32:53Z" finished-at="2019-06-09T12:33:00Z">
+      <class name="Sample1.NewWindiws">
+        <test-method status="PASS" signature="chromenew()[pri:0, instance:Sample1.NewWindiws@5419f379]" name="chromenew" duration-ms="6717" started-at="2019-06-09T18:02:53Z" finished-at="2019-06-09T18:03:00Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- connect -->
-        <test-method status="PASS" signature="qqqq()[pri:0, instance:Sample1.Chekonese@675d3402]" name="qqqq" duration-ms="719" started-at="2019-06-08T17:53:10Z" finished-at="2019-06-08T17:53:11Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- qqqq -->
-        <test-method status="PASS" signature="down()[pri:0, instance:Sample1.Chekonese@675d3402]" name="down" is-config="true" duration-ms="0" started-at="2019-06-08T17:53:11Z" finished-at="2019-06-08T17:53:11Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- down -->
-      </class> <!-- Sample1.Chekonese -->
+        </test-method> <!-- chromenew -->
+      </class> <!-- Sample1.NewWindiws -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

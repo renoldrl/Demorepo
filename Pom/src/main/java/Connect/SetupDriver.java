@@ -43,7 +43,8 @@ public class SetupDriver {
 		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 		
 		//driver.get("https://www.toolsqa.com/automation-practice-form");
-		driver.get("https://www.facebook.com/");
+		//driver.get("https://www.facebook.com/");
+		driver.navigate().to("https://www.toolsqa.com/automation-practice-form");
 		
 	}
 	
